@@ -26,7 +26,7 @@ One data source (sales budgets) were provided in Excel format and were connected
 
 Data Model:
 
-This data model also shows how FACT_Budget hsa been connected to FACT_InternetSales and other necessary DIM tables.
+This data model also shows how FACT_Budget has been connected to FACT_InternetSales and other necessary DIM tables.
 
 Sales Management Dashboard:
 
